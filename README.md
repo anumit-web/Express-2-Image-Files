@@ -16,3 +16,7 @@ https://stackoverflow.com/questions/29820791/git-ignore-node-modules-folder-ever
 npm init
 
 npm install express
+
+http://localhost:3000/images/Ringstrilogyposter.jpg
+
+from /public/images/Ringstrilogyposter.jpg
