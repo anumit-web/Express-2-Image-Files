@@ -5,6 +5,8 @@ https://expressjs.com/en/starter/hello-world.html
 
 https://expressjs.com/en/starter/static-files.html
 
+https://www.digitalocean.com/community/tutorials/nodejs-serving-static-files-in-express
+
 node app.js
 
 http://localhost:3000/
