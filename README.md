@@ -20,3 +20,7 @@ npm install express
 http://localhost:3000/images/Ringstrilogyposter.jpg
 
 from /public/images/Ringstrilogyposter.jpg
+
+http://localhost:3000/css/style.css
+
+from /public/css/style.css
